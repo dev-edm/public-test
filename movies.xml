@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie>
+    <id>6bcb19ec-c52f-46f6-901a-fd2e5e075f89</id>
+    <title>Guardians of the Galaxy</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.</description>
+    <director>James Gunn</director>
+    <year>2014</year>
+    <runtime>121</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>08ca7b09-bc50-4a98-8433-c8c9db8470f8</id>
+    <title>Prometheus</title>
+    <genre>Adventure,Mystery,Sci-Fi</genre>
+    <description>Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.</description>
+    <director>Ridley Scott</director>
+    <year>2012</year>
+    <runtime>124</runtime>
+    <rate>7</rate>
+  </movie>
+  <movie>
+    <id>466708bc-6ed4-4c2f-9b31-812294a40ac5</id>
+    <title>Split</title>
+    <genre>Horror,Thriller</genre>
+    <description>Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.</description>
+    <director>M. Night Shyamalan</director>
+    <year>2016</year>
+    <runtime>117</runtime>
+    <rate>7.3</rate>
+  </movie>
+  <movie>
+    <id>d780f7c7-58d8-4533-b054-64c2725c547e</id>
+    <title>Sing</title>
+    <genre>Animation,Comedy,Family</genre>
+    <description>In a city of humanoid animals, a hustling theater impresario&apos;s attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists&apos; find that their lives will never be the same.</description>
+    <director>Christophe Lourdelet</director>
+    <year>2016</year>
+    <runtime>108</runtime>
+    <rate>7.2</rate>
+  </movie>
+  <movie>
+    <id>a4ed1ae6-cbbf-4b0b-8a41-1caef42fb790</id>
+    <title>Suicide Squad</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.</description>
+    <director>David Ayer</director>
+    <year>2016</year>
+    <runtime>123</runtime>
+    <rate>6.2</rate>
+  </movie>
+  <movie>
+    <id>730dacd2-7d00-4c4f-8276-dee5f69d2c96</id>
+    <title>The Great Wall</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.</description>
+    <director>Yimou Zhang</director>
+    <year>2016</year>
+    <runtime>103</runtime>
+    <rate>6.1</rate>
+  </movie>
+  <movie>
+    <id>f28a5161-b918-4519-876d-315ffa997e64</id>
+    <title>La La Land</title>
+    <genre>Comedy,Drama,Music</genre>
+    <description>A jazz pianist falls for an aspiring actress in Los Angeles.</description>
+    <director>Damien Chazelle</director>
+    <year>2016</year>
+    <runtime>128</runtime>
+    <rate>8.3</rate>
+  </movie>
+  <movie>
+    <id>be097164-ae2d-46bf-9fb8-2ae060ed0d9a</id>
+    <title>Mindhorn</title>
+    <genre>Comedy</genre>
+    <description>A has-been actor best known for playing the title character in the 1980s detective series &quot;Mindhorn&quot; must work with the police when a serial killer says that he will only speak with Detective Mindhorn, whom he believes to be a real person.</description>
+    <director>Sean Foley</director>
+    <year>2016</year>
+    <runtime>89</runtime>
+    <rate>6.4</rate>
+  </movie>
+  <movie>
+    <id>6b751e4e-d780-486a-9dc1-dc78175b374e</id>
+    <title>The Lost City of Z</title>
+    <genre>Action,Adventure,Biography</genre>
+    <description>A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.</description>
+    <director>James Gray</director>
+    <year>2016</year>
+    <runtime>141</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>d42b13b7-9f62-4767-829a-8c6445c3f22e</id>
+    <title>Passengers</title>
+    <genre>Adventure,Drama,Romance</genre>
+    <description>A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.</description>
+    <director>Morten Tyldum</director>
+    <year>2016</year>
+    <runtime>116</runtime>
+    <rate>7</rate>
+  </movie>
+  <movie>
+    <id>b13c09ca-470c-430f-a106-ed51d86b5a11</id>
+    <title>Fantastic Beasts and Where to Find Them</title>
+    <genre>Adventure,Family,Fantasy</genre>
+    <description>The adventures of writer Newt Scamander in New York&apos;s secret community of witches and wizards seventy years before Harry Potter reads his book in school.</description>
+    <director>David Yates</director>
+    <year>2016</year>
+    <runtime>133</runtime>
+    <rate>7.5</rate>
+  </movie>
+  <movie>
+    <id>330a89ab-e56f-4265-a1ae-4f35cb61aea1</id>
+    <title>Hidden Figures</title>
+    <genre>Biography,Drama,History</genre>
+    <description>The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.</description>
+    <director>Theodore Melfi</director>
+    <year>2016</year>
+    <runtime>127</runtime>
+    <rate>7.8</rate>
+  </movie>
+  <movie>
+    <id>4bdc92b2-7099-4d78-9ecf-f291cddd3771</id>
+    <title>Rogue One</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.</description>
+    <director>Gareth Edwards</director>
+    <year>2016</year>
+    <runtime>133</runtime>
+    <rate>7.9</rate>
+  </movie>
+  <movie>
+    <id>2ca4267f-5f80-43b0-aa67-979cf54b6d6f</id>
+    <title>Moana</title>
+    <genre>Animation,Adventure,Comedy</genre>
+    <description>In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches an impetuous Chieftain&apos;s daughter&apos;s island, she answers the Ocean&apos;s call to seek out the Demigod to set things right.</description>
+    <director>Ron Clements</director>
+    <year>2016</year>
+    <runtime>107</runtime>
+    <rate>7.7</rate>
+  </movie>
+  <movie>
+    <id>0240d02c-d2e4-4624-9807-892bfe3d284d</id>
+    <title>Colossal</title>
+    <genre>Action,Comedy,Drama</genre>
+    <description>Gloria is an out-of-work party girl forced to leave her life in New York City, and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected to this phenomenon.</description>
+    <director>Nacho Vigalondo</director>
+    <year>2016</year>
+    <runtime>109</runtime>
+    <rate>6.4</rate>
+  </movie>
+  <movie>
+    <id>260d8003-5aa0-42a0-8d32-387cc30f214c</id>
+    <title>The Secret Life of Pets</title>
+    <genre>Animation,Adventure,Comedy</genre>
+    <description>The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.</description>
+    <director>Chris Renaud</director>
+    <year>2016</year>
+    <runtime>87</runtime>
+    <rate>6.6</rate>
+  </movie>
+  <movie>
+    <id>e5a01c4c-1e53-4f34-8f6c-35e09647a677</id>
+    <title>Hacksaw Ridge</title>
+    <genre>Biography,Drama,History</genre>
+    <description>WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.</description>
+    <director>Mel Gibson</director>
+    <year>2016</year>
+    <runtime>139</runtime>
+    <rate>8.2</rate>
+  </movie>
+  <movie>
+    <id>38b0e0d1-6f77-485d-b18c-ee321c17f374</id>
+    <title>Jason Bourne</title>
+    <genre>Action,Thriller</genre>
+    <description>The CIA&apos;s most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.</description>
+    <director>Paul Greengrass</director>
+    <year>2016</year>
+    <runtime>123</runtime>
+    <rate>6.7</rate>
+  </movie>
+  <movie>
+    <id>46624938-54dd-4af3-aa76-86cc5023d91d</id>
+    <title>Lion</title>
+    <genre>Biography,Drama</genre>
+    <description>A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.</description>
+    <director>Garth Davis</director>
+    <year>2016</year>
+    <runtime>118</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>4ee57cad-c807-406f-a400-4ea9c4383fe9</id>
+    <title>Arrival</title>
+    <genre>Drama,Mystery,Sci-Fi</genre>
+    <description>When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.</description>
+    <director>Denis Villeneuve</director>
+    <year>2016</year>
+    <runtime>116</runtime>
+    <rate>8</rate>
+  </movie>
+  <movie>
+    <id>99f05148-f506-425e-b3cf-c0314eb230eb</id>
+    <title>Gold</title>
+    <genre>Adventure,Drama,Thriller</genre>
+    <description>Kenny Wells, a prospector desperate for a lucky break, teams up with a similarly eager geologist and sets off on a journey to find gold in the uncharted jungle of Indonesia.</description>
+    <director>Stephen Gaghan</director>
+    <year>2016</year>
+    <runtime>120</runtime>
+    <rate>6.7</rate>
+  </movie>
+  <movie>
+    <id>fea475d4-c539-4f57-b8fb-5ee79a12fe2b</id>
+    <title>Manchester by the Sea</title>
+    <genre>Drama</genre>
+    <description>A depressed uncle is asked to take care of his teenage nephew after the boy&apos;s father dies.</description>
+    <director>Kenneth Lonergan</director>
+    <year>2016</year>
+    <runtime>137</runtime>
+    <rate>7.9</rate>
+  </movie>
+  <movie>
+    <id>1035ec6c-fccf-4db1-88fc-1b55dc18c7e5</id>
+    <title>Hounds of Love</title>
+    <genre>Crime,Drama,Horror</genre>
+    <description>A cold-blooded predatory couple while cruising the streets in search of their next victim, will stumble upon a 17-year-old high school girl, who will be sedated, abducted and chained in the strangers&apos; guest room.</description>
+    <director>Ben Young</director>
+    <year>2016</year>
+    <runtime>108</runtime>
+    <rate>6.7</rate>
+  </movie>
+  <movie>
+    <id>9aeb0ee2-2176-42b0-a7e0-5d9813415bde</id>
+    <title>Trolls</title>
+    <genre>Animation,Adventure,Comedy</genre>
+    <description>After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.</description>
+    <director>Walt Dohrn</director>
+    <year>2016</year>
+    <runtime>92</runtime>
+    <rate>6.5</rate>
+  </movie>
+  <movie>
+    <id>7a98137b-399e-4593-8608-63270dd0f604</id>
+    <title>Independence Day: Resurgence</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind&apos;s new space defenses be enough?</description>
+    <director>Roland Emmerich</director>
+    <year>2016</year>
+    <runtime>120</runtime>
+    <rate>5.3</rate>
+  </movie>
+  <movie>
+    <id>6bd97086-bc09-4e38-b922-3df2724368d8</id>
+    <title>Paris pieds nus</title>
+    <genre>Comedy</genre>
+    <description>Fiona visits Paris for the first time to assist her myopic Aunt Martha. Catastrophes ensue, mainly involving Dom, a homeless man who has yet to have an emotion or thought he was afraid of expressing.</description>
+    <director>Dominique Abel</director>
+    <year>2016</year>
+    <runtime>83</runtime>
+    <rate>6.8</rate>
+  </movie>
+  <movie>
+    <id>ed6f9874-f420-4e1d-a459-346231c93d4f</id>
+    <title>Bahubali: The Beginning</title>
+    <genre>Action,Adventure,Drama</genre>
+    <description>In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.</description>
+    <director>S.S. Rajamouli</director>
+    <year>2015</year>
+    <runtime>159</runtime>
+    <rate>8.3</rate>
+  </movie>
+  <movie>
+    <id>5f99eb6a-b539-4118-9ca2-7db4ff6e8bdb</id>
+    <title>Dead Awake</title>
+    <genre>Horror,Thriller</genre>
+    <description>A young woman must save herself and her friends from an ancient evil that stalks its victims through the real-life phenomenon of sleep paralysis.</description>
+    <director>Phillip Guzman</director>
+    <year>2016</year>
+    <runtime>99</runtime>
+    <rate>4.7</rate>
+  </movie>
+  <movie>
+    <id>afb48f50-0599-4c37-a92b-3bb79e9f37b2</id>
+    <title>Bad Moms</title>
+    <genre>Comedy</genre>
+    <description>When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun, and comedic self-indulgence.</description>
+    <director>Jon Lucas</director>
+    <year>2016</year>
+    <runtime>100</runtime>
+    <rate>6.2</rate>
+  </movie>
+  <movie>
+    <id>9a66efdd-4902-49f8-896f-8e1bb1bb3630</id>
+    <title>Assassin&apos;s Creed</title>
+    <genre>Action,Adventure,Drama</genre>
+    <description>When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</description>
+    <director>Justin Kurzel</director>
+    <year>2016</year>
+    <runtime>115</runtime>
+    <rate>5.9</rate>
+  </movie>
+  <movie>
+    <id>e610f5a5-e755-4ad3-8ef5-a9c803a963e7</id>
+    <title>Why Him?</title>
+    <genre>Comedy</genre>
+    <description>A holiday gathering threatens to go off the rails when Ned Fleming realizes that his daughter&apos;s Silicon Valley millionaire boyfriend is about to pop the question.</description>
+    <director>John Hamburg</director>
+    <year>2016</year>
+    <runtime>111</runtime>
+    <rate>6.3</rate>
+  </movie>
+  <movie>
+    <id>223c84de-458c-46c8-8578-7686d9acdab2</id>
+    <title>Nocturnal Animals</title>
+    <genre>Drama,Thriller</genre>
+    <description>A wealthy art gallery owner is haunted by her ex-husband&apos;s novel, a violent thriller she interprets as a symbolic revenge tale.</description>
+    <director>Tom Ford</director>
+    <year>2016</year>
+    <runtime>116</runtime>
+    <rate>7.5</rate>
+  </movie>
+  <movie>
+    <id>dd87fdc3-3796-4972-9312-1027cff54808</id>
+    <title>X-Men: Apocalypse</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>After the re-emergence of the world&apos;s first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.</description>
+    <director>Bryan Singer</director>
+    <year>2016</year>
+    <runtime>144</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>3ef7512c-bd8b-41dc-9afd-3f7c2a4d7c5f</id>
+    <title>Deadpool</title>
+    <genre>Action,Adventure,Comedy</genre>
+    <description>A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.</description>
+    <director>Tim Miller</director>
+    <year>2016</year>
+    <runtime>108</runtime>
+    <rate>8</rate>
+  </movie>
+  <movie>
+    <id>c0a7e4c1-0655-445a-bf90-87b5d862ccae</id>
+    <title>Resident Evil: The Final Chapter</title>
+    <genre>Action,Horror,Sci-Fi</genre>
+    <description>Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.</description>
+    <director>Paul W.S. Anderson</director>
+    <year>2016</year>
+    <runtime>107</runtime>
+    <rate>5.6</rate>
+  </movie>
+  <movie>
+    <id>c64e3c8b-df20-47bc-a62b-40995f4883a3</id>
+    <title>Captain America: Civil War</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>Political interference in the Avengers&apos; activities causes a rift between former allies Captain America and Iron Man.</description>
+    <director>Anthony Russo</director>
+    <year>2016</year>
+    <runtime>147</runtime>
+    <rate>7.9</rate>
+  </movie>
+  <movie>
+    <id>499d9f44-fb81-4dd9-96a4-7ba521e26027</id>
+    <title>Interstellar</title>
+    <genre>Adventure,Drama,Sci-Fi</genre>
+    <description>A team of explorers travel through a wormhole in space in an attempt to ensure humanity&apos;s survival.</description>
+    <director>Christopher Nolan</director>
+    <year>2014</year>
+    <runtime>169</runtime>
+    <rate>8.6</rate>
+  </movie>
+  <movie>
+    <id>04bbdab0-062c-4ba7-aee7-bd712c00d2fe</id>
+    <title>Doctor Strange</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.</description>
+    <director>Scott Derrickson</director>
+    <year>2016</year>
+    <runtime>115</runtime>
+    <rate>7.6</rate>
+  </movie>
+  <movie>
+    <id>ee230aa6-66f4-4c80-9bfb-0994b15cae18</id>
+    <title>The Magnificent Seven</title>
+    <genre>Action,Adventure,Western</genre>
+    <description>Seven gunmen in the old west gradually come together to help a poor village against savage thieves.</description>
+    <director>Antoine Fuqua</director>
+    <year>2016</year>
+    <runtime>132</runtime>
+    <rate>6.9</rate>
+  </movie>
+  <movie>
+    <id>3c4910c4-151b-4477-9272-8bba29bbd6cb</id>
+    <title>5/25/1977</title>
+    <genre>Comedy,Drama</genre>
+    <description>Alienated, hopeful-filmmaker Pat Johnson&apos;s epic story growing up in rural Illinois, falling in love, and becoming the first fan of the movie that changed everything.</description>
+    <director>Patrick Read Johnson</director>
+    <year>2007</year>
+    <runtime>113</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>08a61232-6c4a-44dc-b09f-cf9aa846e5f7</id>
+    <title>Sausage Party</title>
+    <genre>Animation,Adventure,Comedy</genre>
+    <description>A sausage strives to discover the truth about his existence.</description>
+    <director>Greg Tiernan</director>
+    <year>2016</year>
+    <runtime>89</runtime>
+    <rate>6.3</rate>
+  </movie>
+  <movie>
+    <id>e14c4629-267d-4708-a916-00cdd85eda84</id>
+    <title>Moonlight</title>
+    <genre>Drama</genre>
+    <description>A chronicle of the childhood, adolescence and burgeoning adulthood of a young, African-American, gay man growing up in a rough neighborhood of Miami.</description>
+    <director>Barry Jenkins</director>
+    <year>2016</year>
+    <runtime>111</runtime>
+    <rate>7.5</rate>
+  </movie>
+  <movie>
+    <id>0c7af680-2a1b-4af6-84de-01946414ad49</id>
+    <title>Don&apos;t Fuck in the Woods</title>
+    <genre>Horror</genre>
+    <description>A group of friends are going on a camping trip to celebrate graduating college. But once they enter the woods, the proverbial shit starts to hit the fan.</description>
+    <director>Shawn Burkett</director>
+    <year>2016</year>
+    <runtime>73</runtime>
+    <rate>2.7</rate>
+  </movie>
+  <movie>
+    <id>2b8af692-7a62-4742-a1f6-054c0599cd87</id>
+    <title>The Founder</title>
+    <genre>Biography,Drama,History</genre>
+    <description>The story of Ray Kroc, a salesman who turned two brothers&apos; innovative fast food eatery, McDonald&apos;s, into one of the biggest restaurant businesses in the world with a combination of ambition, persistence, and ruthlessness.</description>
+    <director>John Lee Hancock</director>
+    <year>2016</year>
+    <runtime>115</runtime>
+    <rate>7.2</rate>
+  </movie>
+  <movie>
+    <id>7eea8229-ec9b-40b3-8475-31de57ba1732</id>
+    <title>Lowriders</title>
+    <genre>Drama</genre>
+    <description>A young street artist in East Los Angeles is caught between his father&apos;s obsession with lowrider car culture, his ex-felon brother and his need for self-expression.</description>
+    <director>Ricardo de Montreuil</director>
+    <year>2016</year>
+    <runtime>99</runtime>
+    <rate>6.3</rate>
+  </movie>
+  <movie>
+    <id>5a3954b4-0dd0-42eb-825c-36ff66e6303d</id>
+    <title>Pirates of the Caribbean: On Stranger Tides</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of youth, only to discover that Blackbeard and his daughter are after it too.</description>
+    <director>Rob Marshall</director>
+    <year>2011</year>
+    <runtime>136</runtime>
+    <rate>6.7</rate>
+  </movie>
+  <movie>
+    <id>82c69f28-5dd7-48db-bca1-8178ecc488a1</id>
+    <title>Miss Sloane</title>
+    <genre>Drama,Thriller</genre>
+    <description>In the high-stakes world of political power-brokers, Elizabeth Sloane is the most sought after and formidable lobbyist in D.C. But when taking on the most powerful opponent of her career, she finds winning may come at too high a price.</description>
+    <director>John Madden</director>
+    <year>2016</year>
+    <runtime>132</runtime>
+    <rate>7.3</rate>
+  </movie>
+  <movie>
+    <id>4c4af7eb-bdf6-4387-92e5-b82b2b04ae9a</id>
+    <title>Fallen</title>
+    <genre>Adventure,Drama,Fantasy</genre>
+    <description>A young girl finds herself in a reform school after therapy since she was blamed for the death of a young boy. At the school she finds herself drawn to a fellow student, unaware that he is an angel, and has loved her for thousands of years.</description>
+    <director>Scott Hicks</director>
+    <year>2016</year>
+    <runtime>91</runtime>
+    <rate>5.6</rate>
+  </movie>
+  <movie>
+    <id>1c2ceed8-f9b5-4640-8036-c55297bf1014</id>
+    <title>Star Trek Beyond</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy who puts them and everything the Federation stands for to the test.</description>
+    <director>Justin Lin</director>
+    <year>2016</year>
+    <runtime>122</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>6137b929-d18f-4464-b7f0-736bd52934bf</id>
+    <title>The Last Face</title>
+    <genre>Drama</genre>
+    <description>A director (Charlize Theron) of an international aid agency in Africa meets a relief aid doctor (Javier Bardem) amidst a political/social revolution, and together face tough choices ... See full summary »</description>
+    <director>Sean Penn</director>
+    <year>2016</year>
+    <runtime>130</runtime>
+    <rate>3.7</rate>
+  </movie>
+  <movie>
+    <id>1ea74faa-5fe3-4a0a-b42c-0ea183caab89</id>
+    <title>Star Wars: Episode VII - The Force Awakens</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</description>
+    <director>J.J. Abrams</director>
+    <year>2015</year>
+    <runtime>136</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>73961c70-b517-423e-820b-dbeecff02f5e</id>
+    <title>Underworld: Blood Wars</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>Vampire death dealer, Selene (Kate Beckinsale) fights to end the eternal war between the Lycan clan and the Vampire faction that betrayed her.</description>
+    <director>Anna Foerster</director>
+    <year>2016</year>
+    <runtime>91</runtime>
+    <rate>5.8</rate>
+  </movie>
+  <movie>
+    <id>9a961f5a-94d7-4764-8f4b-bd9aeddcdf58</id>
+    <title>Mother&apos;s Day</title>
+    <genre>Comedy,Drama</genre>
+    <description>Three generations come together in the week leading up to Mother&apos;s Day.</description>
+    <director>Garry Marshall</director>
+    <year>2016</year>
+    <runtime>118</runtime>
+    <rate>5.6</rate>
+  </movie>
+  <movie>
+    <id>80a65f51-ec5a-43a8-a511-a576c5be8f5d</id>
+    <title>John Wick</title>
+    <genre>Action,Crime,Thriller</genre>
+    <description>An ex-hitman comes out of retirement to track down the gangsters that took everything from him.</description>
+    <director>Chad Stahelski</director>
+    <year>2014</year>
+    <runtime>101</runtime>
+    <rate>7.2</rate>
+  </movie>
+  <movie>
+    <id>cb6bed41-a6a4-493b-b2a3-fa9095e16021</id>
+    <title>The Dark Knight</title>
+    <genre>Action,Crime,Drama</genre>
+    <description>When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the Dark Knight must come to terms with one of the greatest psychological tests of his ability to fight injustice.</description>
+    <director>Christopher Nolan</director>
+    <year>2008</year>
+    <runtime>152</runtime>
+    <rate>9</rate>
+  </movie>
+  <movie>
+    <id>51e0a685-d0c0-4a58-beb8-b1e423ae312a</id>
+    <title>Silence</title>
+    <genre>Adventure,Drama,History</genre>
+    <description>In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.</description>
+    <director>Martin Scorsese</director>
+    <year>2016</year>
+    <runtime>161</runtime>
+    <rate>7.3</rate>
+  </movie>
+  <movie>
+    <id>b06bf0f1-4527-4d3a-9d76-7a8b0a9e58ba</id>
+    <title>Don&apos;t Breathe</title>
+    <genre>Crime,Horror,Thriller</genre>
+    <description>Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn&apos;t as helpless as he seems.</description>
+    <director>Fede Alvarez</director>
+    <year>2016</year>
+    <runtime>88</runtime>
+    <rate>7.2</rate>
+  </movie>
+  <movie>
+    <id>36a8e149-4d7a-4b37-bf70-95e9726c8a2d</id>
+    <title>Me Before You</title>
+    <genre>Drama,Romance</genre>
+    <description>A girl in a small town forms an unlikely bond with a recently-paralyzed man she&apos;s taking care of.</description>
+    <director>Thea Sharrock</director>
+    <year>2016</year>
+    <runtime>106</runtime>
+    <rate>7.4</rate>
+  </movie>
+  <movie>
+    <id>f788eded-d901-439e-a923-20e1ecbcde1d</id>
+    <title>Their Finest</title>
+    <genre>Comedy,Drama,Romance</genre>
+    <description>A former secretary, newly appointed as a scriptwriter for propaganda films, joins the cast and crew of a major production while the Blitz rages around them.</description>
+    <director>Lone Scherfig</director>
+    <year>2016</year>
+    <runtime>117</runtime>
+    <rate>7</rate>
+  </movie>
+  <movie>
+    <id>dbef24ed-4174-49df-9d3d-3904e667f26d</id>
+    <title>Sully</title>
+    <genre>Biography,Drama</genre>
+    <description>The story of Chesley Sullenberger, an American pilot who became a hero after landing his damaged plane on the Hudson River in order to save the flight&apos;s passengers and crew.</description>
+    <director>Clint Eastwood</director>
+    <year>2016</year>
+    <runtime>96</runtime>
+    <rate>7.5</rate>
+  </movie>
+  <movie>
+    <id>e15e8b4c-0928-43d3-b78b-4b52abab64b1</id>
+    <title>Batman v Superman: Dawn of Justice</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</description>
+    <director>Zack Snyder</director>
+    <year>2016</year>
+    <runtime>151</runtime>
+    <rate>6.7</rate>
+  </movie>
+  <movie>
+    <id>7d8b36e9-5887-478c-a9b9-c9c36f74b2fe</id>
+    <title>The Autopsy of Jane Doe</title>
+    <genre>Horror,Mystery,Thriller</genre>
+    <description>A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.</description>
+    <director>André Øvredal</director>
+    <year>2016</year>
+    <runtime>86</runtime>
+    <rate>6.8</rate>
+  </movie>
+  <movie>
+    <id>d702dce9-9558-4122-b636-416346d947ea</id>
+    <title>The Girl on the Train</title>
+    <genre>Crime,Drama,Mystery</genre>
+    <description>A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.</description>
+    <director>Tate Taylor</director>
+    <year>2016</year>
+    <runtime>112</runtime>
+    <rate>6.5</rate>
+  </movie>
+  <movie>
+    <id>56ebac88-4eb9-446f-8e15-68dbca42aa13</id>
+    <title>Fifty Shades of Grey</title>
+    <genre>Drama,Romance,Thriller</genre>
+    <description>Literature student Anastasia Steele&apos;s life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.</description>
+    <director>Sam Taylor-Johnson</director>
+    <year>2015</year>
+    <runtime>125</runtime>
+    <rate>4.1</rate>
+  </movie>
+  <movie>
+    <id>6af118a9-c688-434b-8871-599159e8d3c8</id>
+    <title>The Prestige</title>
+    <genre>Drama,Mystery,Sci-Fi</genre>
+    <description>Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.</description>
+    <director>Christopher Nolan</director>
+    <year>2006</year>
+    <runtime>130</runtime>
+    <rate>8.5</rate>
+  </movie>
+  <movie>
+    <id>cc04ab7d-60bc-4b53-937d-c86013c671c5</id>
+    <title>Kingsman: The Secret Service</title>
+    <genre>Action,Adventure,Comedy</genre>
+    <description>A spy organization recruits an unrefined, but promising street kid into the agency&apos;s ultra-competitive training program, just as a global threat emerges from a twisted tech genius.</description>
+    <director>Matthew Vaughn</director>
+    <year>2014</year>
+    <runtime>129</runtime>
+    <rate>7.7</rate>
+  </movie>
+  <movie>
+    <id>4a500125-4048-4900-b447-77ee40cc3034</id>
+    <title>Patriots Day</title>
+    <genre>Drama,History,Thriller</genre>
+    <description>The story of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.</description>
+    <director>Peter Berg</director>
+    <year>2016</year>
+    <runtime>133</runtime>
+    <rate>7.4</rate>
+  </movie>
+  <movie>
+    <id>52b71603-ee32-40e0-9747-b96775d9d930</id>
+    <title>Mad Max: Fury Road</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.</description>
+    <director>George Miller</director>
+    <year>2015</year>
+    <runtime>120</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>491dd09d-3282-43ed-97e8-d1e2b2b5d00d</id>
+    <title>Wakefield</title>
+    <genre>Drama</genre>
+    <description>A man&apos;s nervous breakdown causes him to leave his wife and live in his attic for several months.</description>
+    <director>Robin Swicord</director>
+    <year>2016</year>
+    <runtime>106</runtime>
+    <rate>7.5</rate>
+  </movie>
+  <movie>
+    <id>3c5fe4b9-8fc1-40e3-bf89-bdbfffc83cdd</id>
+    <title>Deepwater Horizon</title>
+    <genre>Action,Drama,Thriller</genre>
+    <description>A dramatization of the April 2010 disaster, when the offshore drilling rig Deepwater Horizon exploded and created the worst oil spill in U.S. history.</description>
+    <director>Peter Berg</director>
+    <year>2016</year>
+    <runtime>107</runtime>
+    <rate>7.2</rate>
+  </movie>
+  <movie>
+    <id>70da92ff-acd1-4913-8c28-9e0908255539</id>
+    <title>The Promise</title>
+    <genre>Drama,History</genre>
+    <description>Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.</description>
+    <director>Terry George</director>
+    <year>2016</year>
+    <runtime>133</runtime>
+    <rate>5.9</rate>
+  </movie>
+  <movie>
+    <id>ec873bb7-b6ac-4ec2-a468-21984b2c2435</id>
+    <title>Allied</title>
+    <genre>Action,Drama,Romance</genre>
+    <description>In 1942, a Canadian intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.</description>
+    <director>Robert Zemeckis</director>
+    <year>2016</year>
+    <runtime>124</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>179f1f9f-004a-46d3-8c20-34bdc6ff8c2b</id>
+    <title>A Monster Calls</title>
+    <genre>Drama,Fantasy</genre>
+    <description>A boy seeks the help of a tree monster to cope with his single mother&apos;s terminal illness.</description>
+    <director>J.A. Bayona</director>
+    <year>2016</year>
+    <runtime>108</runtime>
+    <rate>7.5</rate>
+  </movie>
+  <movie>
+    <id>bbb4f5e2-ad28-4ad2-a9d6-c7418daff241</id>
+    <title>Collateral Beauty</title>
+    <genre>Drama,Romance</genre>
+    <description>Retreating from life after a tragedy, a man questions the universe by writing to Love, Time and Death. Receiving unexpected answers, he begins to see how these things interlock and how even loss can reveal moments of meaning and beauty.</description>
+    <director>David Frankel</director>
+    <year>2016</year>
+    <runtime>97</runtime>
+    <rate>6.8</rate>
+  </movie>
+  <movie>
+    <id>a6cf50f6-ebb8-4e21-8644-d0f078d41bce</id>
+    <title>Zootopia</title>
+    <genre>Animation,Adventure,Comedy</genre>
+    <description>In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.</description>
+    <director>Byron Howard</director>
+    <year>2016</year>
+    <runtime>108</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>ca12b155-54c1-4e10-84f1-564fa5eb020e</id>
+    <title>Pirates of the Caribbean: At World&apos;s End</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.</description>
+    <director>Gore Verbinski</director>
+    <year>2007</year>
+    <runtime>169</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>5a630a14-6a00-41f8-beca-b51c4f478452</id>
+    <title>The Avengers</title>
+    <genre>Action,Sci-Fi</genre>
+    <description>Earth&apos;s mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.</description>
+    <director>Joss Whedon</director>
+    <year>2012</year>
+    <runtime>143</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>62066322-9663-4ab3-831b-6cd1588b60ba</id>
+    <title>Inglourious Basterds</title>
+    <genre>Adventure,Drama,War</genre>
+    <description>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner&apos;s vengeful plans for the same.</description>
+    <director>Quentin Tarantino</director>
+    <year>2009</year>
+    <runtime>153</runtime>
+    <rate>8.3</rate>
+  </movie>
+  <movie>
+    <id>00a2e161-9439-4314-9172-9951ec71f200</id>
+    <title>Pirates of the Caribbean: Dead Man&apos;s Chest</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones&apos; service, as other friends and foes seek the heart for their own agenda as well.</description>
+    <director>Gore Verbinski</director>
+    <year>2006</year>
+    <runtime>151</runtime>
+    <rate>7.3</rate>
+  </movie>
+  <movie>
+    <id>05963772-ffc8-457c-8812-0feaa155c613</id>
+    <title>Ghostbusters</title>
+    <genre>Action,Comedy,Fantasy</genre>
+    <description>Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.</description>
+    <director>Paul Feig</director>
+    <year>2016</year>
+    <runtime>116</runtime>
+    <rate>5.3</rate>
+  </movie>
+  <movie>
+    <id>b75cd3d6-5ae7-445f-a7c4-228f6848dc0a</id>
+    <title>Inception</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.</description>
+    <director>Christopher Nolan</director>
+    <year>2010</year>
+    <runtime>148</runtime>
+    <rate>8.8</rate>
+  </movie>
+  <movie>
+    <id>ea236086-cf81-4fa4-ac71-023412abe550</id>
+    <title>Captain Fantastic</title>
+    <genre>Comedy,Drama</genre>
+    <description>In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.</description>
+    <director>Matt Ross</director>
+    <year>2016</year>
+    <runtime>118</runtime>
+    <rate>7.9</rate>
+  </movie>
+  <movie>
+    <id>e2ddfe1d-7851-4e12-9943-0a0141246244</id>
+    <title>The Wolf of Wall Street</title>
+    <genre>Biography,Comedy,Crime</genre>
+    <description>Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.</description>
+    <director>Martin Scorsese</director>
+    <year>2013</year>
+    <runtime>180</runtime>
+    <rate>8.2</rate>
+  </movie>
+  <movie>
+    <id>4f197a2b-f708-4aca-90cf-1a52b5dc9188</id>
+    <title>Gone Girl</title>
+    <genre>Crime,Drama,Mystery</genre>
+    <description>With his wife&apos;s disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it&apos;s suspected that he may not be innocent.</description>
+    <director>David Fincher</director>
+    <year>2014</year>
+    <runtime>149</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>f76ccf62-bfb5-40cf-a6b5-4ba10cfcf0e0</id>
+    <title>Furious Seven</title>
+    <genre>Action,Crime,Thriller</genre>
+    <description>Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.</description>
+    <director>James Wan</director>
+    <year>2015</year>
+    <runtime>137</runtime>
+    <rate>7.2</rate>
+  </movie>
+  <movie>
+    <id>4228a7fb-bf91-43f7-b254-66e077c78f79</id>
+    <title>Jurassic World</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, which escapes containment and goes on a killing spree.</description>
+    <director>Colin Trevorrow</director>
+    <year>2015</year>
+    <runtime>124</runtime>
+    <rate>7</rate>
+  </movie>
+  <movie>
+    <id>86b52764-96fd-4a7f-928e-3c8aecf9c5ae</id>
+    <title>Live by Night</title>
+    <genre>Crime,Drama</genre>
+    <description>A group of Boston-bred gangsters set up shop in balmy Florida during the Prohibition era, facing off against the competition and the Ku Klux Klan.</description>
+    <director>Ben Affleck</director>
+    <year>2016</year>
+    <runtime>129</runtime>
+    <rate>6.4</rate>
+  </movie>
+  <movie>
+    <id>21eb217f-f83a-45dd-83a1-e024e164f9e1</id>
+    <title>Avatar</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.</description>
+    <director>James Cameron</director>
+    <year>2009</year>
+    <runtime>162</runtime>
+    <rate>7.8</rate>
+  </movie>
+  <movie>
+    <id>853c55b1-0a67-4b66-9d9c-244ea78f2824</id>
+    <title>The Hateful Eight</title>
+    <genre>Crime,Drama,Mystery</genre>
+    <description>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</description>
+    <director>Quentin Tarantino</director>
+    <year>2015</year>
+    <runtime>187</runtime>
+    <rate>7.8</rate>
+  </movie>
+  <movie>
+    <id>08192726-62b4-4894-bbef-1b824cb5a725</id>
+    <title>The Accountant</title>
+    <genre>Action,Crime,Drama</genre>
+    <description>As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.</description>
+    <director>Gavin O&apos;Connor</director>
+    <year>2016</year>
+    <runtime>128</runtime>
+    <rate>7.4</rate>
+  </movie>
+  <movie>
+    <id>8b1772f8-6c0d-499e-851c-28ed6e67319b</id>
+    <title>Prisoners</title>
+    <genre>Crime,Drama,Mystery</genre>
+    <description>When Keller Dover&apos;s daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.</description>
+    <director>Denis Villeneuve</director>
+    <year>2013</year>
+    <runtime>153</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>2a34d51f-dd37-4123-b764-5c24ed3990ba</id>
+    <title>Warcraft</title>
+    <genre>Action,Adventure,Fantasy</genre>
+    <description>As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.</description>
+    <director>Duncan Jones</director>
+    <year>2016</year>
+    <runtime>123</runtime>
+    <rate>7</rate>
+  </movie>
+  <movie>
+    <id>adfb4673-362f-4d87-ac24-39d70c27adff</id>
+    <title>The Help</title>
+    <genre>Drama</genre>
+    <description>An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids&apos; point of view on the white families for which they work, and the hardships they go through on a daily basis.</description>
+    <director>Tate Taylor</director>
+    <year>2011</year>
+    <runtime>146</runtime>
+    <rate>8.1</rate>
+  </movie>
+  <movie>
+    <id>4d06966e-123f-4d65-a21a-9882f688a64b</id>
+    <title>War Dogs</title>
+    <genre>Comedy,Crime,Drama</genre>
+    <description>Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America&apos;s allies in Afghanistan.</description>
+    <director>Todd Phillips</director>
+    <year>2016</year>
+    <runtime>114</runtime>
+    <rate>7.1</rate>
+  </movie>
+  <movie>
+    <id>39c178e2-56fc-4854-a80f-230314851bb6</id>
+    <title>Avengers: Age of Ultron</title>
+    <genre>Action,Adventure,Sci-Fi</genre>
+    <description>When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it&apos;s up to Earth&apos;s mightiest heroes to stop the villainous Ultron from enacting his terrible plan.</description>
+    <director>Joss Whedon</director>
+    <year>2015</year>
+    <runtime>141</runtime>
+    <rate>7.4</rate>
+  </movie>
+  <movie>
+    <id>f2eeba04-a225-4b93-bf56-396321ba087c</id>
+    <title>The Nice Guys</title>
+    <genre>Action,Comedy,Crime</genre>
+    <description>In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.</description>
+    <director>Shane Black</director>
+    <year>2016</year>
+    <runtime>116</runtime>
+    <rate>7.4</rate>
+  </movie>
+  <movie>
+    <id>96f719a3-76f8-42af-b380-9d2cf8b02269</id>
+    <title>Kimi no na wa</title>
+    <genre>Animation,Drama,Fantasy</genre>
+    <description>Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?</description>
+    <director>Makoto Shinkai</director>
+    <year>2016</year>
+    <runtime>106</runtime>
+    <rate>8.6</rate>
+  </movie>
+  <movie>
+    <id>11a95683-6e60-4eaa-8af4-5eb8146290dd</id>
+    <title>The Void</title>
+    <genre>Horror,Mystery,Sci-Fi</genre>
+    <description>Shortly after delivering a patient to an understaffed hospital, a police officer experiences strange and violent occurrences seemingly linked to a group of mysterious hooded figures.</description>
+    <director>Jeremy Gillespie</director>
+    <year>2016</year>
+    <runtime>90</runtime>
+    <rate>5.8</rate>
+  </movie>
+  <movie>
+    <id>98f06925-0864-42e0-b69b-11b0dd04aab3</id>
+    <title>Personal Shopper</title>
+    <genre>Drama,Mystery,Thriller</genre>
+    <description>A personal shopper in Paris refuses to leave the city until she makes contact with her twin brother who previously died there. Her life becomes more complicated when a mysterious person contacts her via text message.</description>
+    <director>Olivier Assayas</director>
+    <year>2016</year>
+    <runtime>105</runtime>
+    <rate>6.3</rate>
+  </movie>
+  <movie>
+    <id>fcbeb229-ab27-45f5-a317-3bb6c0cdba9</id>
+    <title>The Departed</title>
+    <genre>Crime,Drama,Thriller</genre>
+    <description>An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.</description>
+    <director>Martin Scorsese</director>
+    <year>2006</year>
+    <runtime>151</runtime>
+    <rate>8.5</rate>
+  </movie>
+</movies>
